@@ -172,5 +172,5 @@ This analysis helps:
 👉 [Top 3 Makes and Their Top 3 Models](https://chandnirajgor.github.io/used-car-sales-analysis/interactive/Top_3_Makes_and_Their_Top_3_Models.html)  
 👉 [Top Car Manufacturers](https://chandnirajgor.github.io/used-car-sales-analysis/interactive/Top_Car_Manufacturers.html)  
 👉 [Type of Transmission](https://chandnirajgor.github.io/used-car-sales-analysis/interactive/Type_of_transmission.html)  
-👉 [Largest Vehicle Sales Market](https://chandnirajgor.github.io/used-car-sales-analysis/interactive/Largest_vehicle_sales_market.html)  
-👉 [Top 10 Sellers](https://chandnirajgor.github.io/used-car-sales-analysis/interactive/Top_10_sellers.html)  
+👉 [Largest Vehicle Sales Market](https://chandnirajgor.github.io/used-car-sales-analysis/interactive/largest_vehicle_sales_market.html)  
+👉 [Top 10 Sellers](https://chandnirajgor.github.io/used-car-sales-analysis/interactive/top_10_sellers.html)  
