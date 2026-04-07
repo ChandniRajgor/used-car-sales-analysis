@@ -163,7 +163,7 @@ This analysis helps:
 
 ## 📊 Interactive Dashboard  
 
-👉 [Average Selling Price by Car Color](https://your-username.github.io/repo-name/Average%20Selling%20Price%20by%20Car%20Color.html)  
+👉 [Average Selling Price by Car Color](https://your-username.github.io/used-car-sales-analysis/interactive/Average_Selling_Price_by_Car_Color.html)  
 👉 [Cars with Fair Market Value](https://your-username.github.io/repo-name/Cars%20with%20fair%20market%20value.html)  
 👉 [Cars with Good Resale Value](https://your-username.github.io/repo-name/Cars%20with%20good%20resale%20value.html)  
 👉 [Distribution of Nearly New and Used Cars](https://your-username.github.io/repo-name/Distribution%20of%20nearly%20new%20and%20used%20cars.html)  
