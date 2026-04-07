@@ -11,6 +11,10 @@ The goal is to support data-driven decision-making in:
 - Regional sales optimization  
 
 ---
+## 📂 How to Access Data
+
+Download dataset from Kaggle  
+Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)
 
 ## 🎯 Key Objectives
 - Identify high resale value vehicles (seller perspective)  
